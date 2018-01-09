@@ -259,3 +259,8 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+/BuildingEscape/BuildingEscape/Content/StarterContent
+/BuildingEscape/BuildingEscape/Binaries/Win64
+/BuildingEscape/BuildingEscape/Intermediate
+/BuildingEscape/BuildingEscape/Saved
